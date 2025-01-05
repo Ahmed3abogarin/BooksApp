@@ -17,10 +17,6 @@ Develop an Android application that serves as a digital book library. The applic
 -   [ ] Implement `BookDetailsFragment` to display the details of the selected book.
 -   [ ] Implement navigation logic from `BookListFragment` to `BookDetailsFragment`.
 
-### Time to Implement —
-
-45 minutes.
-
 ### Components Provided —
 
 1. **BookListFragment**:
